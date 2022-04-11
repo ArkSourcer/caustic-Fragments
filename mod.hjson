@@ -1,0 +1,9 @@
+displayName: "Caustic fragments"
+name: "Caustic"
+author: "Arkanic"
+description:
+'''
+Sin descripcion por los momentos
+'''
+version: 0.7.8.1
+minGameVersion: 135
