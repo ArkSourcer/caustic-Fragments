@@ -2,7 +2,7 @@ name: Andal desorganizer
 description: "Desorganiza los atomos de [#004094]Andal [lightgray]para llevarlos a su estado mas puro."
 type: GenericCrafter
 drawer:DrawGlow
-topRegion: andalDesorganizer-top
+top: andalDesorganizer-top
 size: 2
 hasPower: true
 hasItems: true
