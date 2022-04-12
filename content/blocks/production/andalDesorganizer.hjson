@@ -1,0 +1,38 @@
+name: Andal desorganizer
+description: "Desorganiza los atomos de [#004094]Andal [lightgray]para llevarlos a su estado mas puro."
+type: GenericCrafter
+drawer:DrawGlow
+topRegion: andal-desorganizer-top
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 100
+itemCapacity: 20
+  craftTime: 15
+craftEffect: steam 
+updateEffect: none
+consumes: {
+  liquid: {
+    liquid: andaleiter
+    amount: 0.2
+  }
+  power: 1
+items: {
+items: [
+impureAndal/5
+	 ]
+      }
+    },
+requirements: [
+titanium/100
+lead/150
+impureAndal/30
+],
+category: crafting
+research: silicon/smelter
+outputItems:
+[
+  andal/3
+  scrap/2
+]            

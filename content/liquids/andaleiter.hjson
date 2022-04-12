@@ -1,0 +1,11 @@
+type: liquid
+name: Andaleiter
+description: "Liquido liviano capaz de enfriar maquinas y generadores pequeños"
+temperature: 0
+flammability: 0
+viscosity: 0.9
+heatCapacity: 0.3
+explosiveness: 0.05
+effect: freezing
+color: 0047d4
+category: andal
