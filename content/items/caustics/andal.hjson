@@ -1,8 +1,0 @@
-name: Andal
-description: "Material usado para armamento liviano y Aislante"
-cost: 1.0
-hardness: 3
-charge: 0.2
-color: "003b87"
-category: impureAndal
-alwaysUnlocked: true
