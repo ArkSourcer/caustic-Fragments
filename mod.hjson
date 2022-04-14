@@ -1,9 +1,9 @@
 displayName: "Caustic fragments"
 name: "Caustic"
-author: "Arkanic"
+author: "[yellow]<[white]Arkanic[yellow]>"
 description:
 '''
-[Blue]Ca[purple]us[orange]ti[green]c [white]fragments esta en fase de desarrollo. Puedes apoyar al mod a traves de nuesteo repositorio con un comentario 
+[blue]Ca[purple]us[orange]ti[green]c [white]fragments esta en fase de desarrollo. Puedes apoyar al mod a traves de nuesteo repositorio con un comentario 
 '''
 version: 0.7.8.5
 minGameVersion: 135
