@@ -1,8 +1,0 @@
-name: Impure Andal
-description: "La sombra del andal, solo es capaz de usarse al 100% si el material es puro"
-cost: 1.0
-hardness: 4
-charge: 0.1
-color: "004cb0"
-category: titanium
-alwaysUnlocked: true
