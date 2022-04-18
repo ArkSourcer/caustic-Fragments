@@ -1,0 +1,126 @@
+type: flying
+flying: true
+hitSize: 10
+health: 1000
+armor: 5
+speed: 1.5
+rotateSpeed: 1.2
+rotateShooting: false
+accel: 0.02
+drag: 0.02
+lowAltitude: true
+engineOffset: 20
+engineSize: 4
+lightColor: 5566e6
+mineItems: [
+  titanium
+  thorium
+]
+weapons: [
+  {
+    name: aeliumWeapon
+    x: 5
+    y: 5
+    mirror: false
+    rotate: true
+    rotateSpeed: 4.2
+    reload: 45
+    recoil: 0.3
+    shootSound: bang
+    shake: 3
+    bullet: {
+      type: fireball
+      speed: 20
+      maxSpeed: 40
+      damage: 100
+      length: 240
+      lifetime: 30
+      drawSize: 240
+      width: 13
+      colors: [e6555520, e6555540, e6555580, ffffff]
+      lightColor: e65555
+      hitEffect: {
+        type: ParticleEffect
+        line: true
+        particles: 8
+        lifetime: 15
+        length: 20
+        strokeFrom: 2
+        strokeTo: 0
+        lenFrom: 8
+        lenTo: 0
+        colorFrom: e65555
+        colorTo: e6555550
+      }
+    }
+  }
+  {
+    name: aeliumWeapon
+    x: -5
+    y: 5
+    mirror: false
+    rotate: true
+    rotateSpeed: 4.2
+    reload: 45
+    recoil: 0.3
+    shootSound: bang
+    shake: 3
+    bullet: {
+      type: fireball
+      speed: 20
+      maxSpeed: 40
+      damage: 100
+      length: 240
+      lifetime: 30
+      drawSize: 240
+      width: 13
+      colors: [e6555520, e6555540, e6555580, ffffff]
+      lightColor: e65555
+      hitEffect: {
+        type: ParticleEffect
+        line: true
+        particles: 8
+        lifetime: 15
+        length: 20
+        strokeFrom: 2
+        strokeTo: 0
+        lenFrom: 8
+        lenTo: 0
+        colorFrom: e65555
+        colorTo: e6555550
+      }
+    }
+  }
+  {
+    name: ojiva-aelium
+    x: 0
+    y: -8
+    xRand: 12
+    mirror: false
+    shotDelay: 2
+    shots: 1
+    shootCone: 180
+    minShootVelocity: 0.4
+    inaccuracy: 90
+    reload: 800
+    shootSound: buttonClick
+    bullet: {
+      type: BombBulletType
+      splashDamage: 300
+      splashDamageRadius: 100
+      lifetime: 300
+      height: 30
+      width: 40
+      frontColor: ffffff
+      backColor: 4b61f2
+      lightColor: 4b61f2
+      despawnEffect: impactReactorExplosion
+    }
+  }
+]
+research: {
+  parent: flare
+  objectives: [
+    air-factory
+  ]
+}
