@@ -1,0 +1,32 @@
+type: Reconstructor
+size: 4
+constructTime: 2200
+liquidCapacity: 60
+consumes: {
+  power: 8
+    items: {
+      items: [
+        lead/60
+        silicon/100
+        andal/50
+      ]
+    }
+  liquid: {
+    liquid: water
+    amount: 0.6
+  }
+}
+upgrades: [
+  [mono, ataya]
+]
+requirements: [
+  andal/400
+  titanium/600
+  silicon/600
+  lead/700
+]
+category: units
+research: {
+  parent: air-factory
+  objectives: [additive-reconstructor, thorium]
+}

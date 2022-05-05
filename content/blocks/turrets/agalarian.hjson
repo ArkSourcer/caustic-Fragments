@@ -1,0 +1,49 @@
+name: Agalarian
+type: ItemTurret
+targetAir: true
+targetGround: true
+health: 600
+size: 2
+inaccuracy: 10
+reloadTime: 25
+shots: 3
+recoilAmount: 2
+ammoUseEffect: casing3
+shootCone: 5
+rotateSpeed: 500
+range: 110
+ammoTypes: {
+  andal: {
+    lifetime: 17
+    speed: 6
+    damage: 40
+    width: 10
+    height: 10
+    shootEffect: shootSmall
+    smokeEffect: absorb
+    ammoMultiplier: 2
+    frontColor: 99b4ff
+    backColor: ffffff
+  }
+  titanium: {
+    lifetime: 21
+    speed: 5
+    damage: 30
+    width: 10
+    height: 10
+    shootEffect: unitControl 
+    smokeEffect: absorb
+    ammoMultiplier: 1
+    frontColor: b3c7ff
+    backColor: ffffff
+  }
+ 
+}
+requirements: [
+  andal/40
+  titanium/40
+  silicon/30
+]
+category: turret
+research: aglarian
+shootSound: shoot

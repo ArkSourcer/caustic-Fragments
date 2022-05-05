@@ -1,0 +1,8 @@
+name: Andal ore
+type: OverlayFloor
+itemDrop: impureAndal
+playerUnmineable: false
+oreDefault: true
+oreScale: 2
+oreThreshold: 0.9
+variants: 4

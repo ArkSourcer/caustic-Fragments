@@ -1,0 +1,9 @@
+name: Andragon
+description: "Material Altamente radioactivo usado en Generadores Clase A y B"
+cost: 1.0
+hardness: 3
+charge: 1
+radioactivity: 2
+color: "#522dcc"
+category: thorium
+alwaysUnlocked: true

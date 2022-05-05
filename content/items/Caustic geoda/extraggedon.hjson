@@ -1,0 +1,10 @@
+name: Extraggedon
+description: "Material electrico de alta dureza y muy pesado "
+cost: 1.0
+hardness: 3
+charge: 2
+explosiveness: 0.1
+radioactivity: 0
+color: "d37f47"
+category: andal
+alwaysUnlocked: true

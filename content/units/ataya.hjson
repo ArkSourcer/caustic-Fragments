@@ -1,0 +1,67 @@
+name: Ataya
+type: flying
+flying: true
+hitSize: 10
+health: 900
+armor: 5
+speed: 2
+rotateSpeed: 0.5
+rotateShooting: false
+accel: 0.3
+drag: 0.02
+lowAltitude: true
+engineOffset: 10
+engineSize: 3
+lightColor: 5566e6
+mineSound: drill
+minespeed: 5
+mineTier: 3
+mineItems: [
+  titanium
+  thorium
+]
+weapons: [
+  {
+    name: atayaWeapon
+    x: 4
+    y: 4
+    mirror: true
+    rotate: true
+    rotateSpeed: 4.2
+    reload: 7
+    recoil: 0.4
+    shootSound: empty
+    shake: 1
+    bullet: {
+      type: missileExplosive
+      speed: 10
+      maxSpeed: 20
+      damage: 30
+      length: 240
+      lifetime: 20
+      drawSize: 100
+      width: 13
+      colors: [e6555520, e6555540, e6555580, ffffff]
+      lightColor: e65555
+      hitEffect: {
+        type: ParticleEffect
+        line: true
+        particles: 8
+        lifetime: 15
+        length: 20
+        strokeFrom: 2
+        strokeTo: 0
+        lenFrom: 8
+        lenTo: 0
+        colorFrom: e65555
+        colorTo: e6555550
+      }
+    }
+  }
+]
+research: {
+  parent: flare
+  objectives: [
+    air-factory
+  ]
+}
