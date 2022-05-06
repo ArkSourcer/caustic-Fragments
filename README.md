@@ -4,5 +4,6 @@
 
 ## Updates
 
-#### nuevo mineral ![andal](https://user-images.githubusercontent.com/93954648/167063653-dd4c5337-1b5b-428e-8aac-90c3eca1ce56.png)``Andal`` con lo que podras construir nuevos hornos y maquinas.
+## nuevo mineral 
+####![andal](https://user-images.githubusercontent.com/93954648/167063653-dd4c5337-1b5b-428e-8aac-90c3eca1ce56.png)``Andal`` con lo que podras construir nuevos hornos y maquinas.
 
