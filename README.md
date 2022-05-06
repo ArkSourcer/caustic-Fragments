@@ -1,5 +1,5 @@
 ## Caustic-Fragments
-https://user-images.githubusercontent.com/93954648/167064137-3246134c-3501-4403-adcb-b5482e98a40d.mp4
+
 ### Hola este mod está en traducción español... Pronto tendremos traduccion a ingles
 
 ## Updates
