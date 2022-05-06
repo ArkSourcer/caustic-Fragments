@@ -26,3 +26,11 @@
 ![andaleiter](https://user-images.githubusercontent.com/93954648/167067967-e13d5af3-3200-496d-9314-d5d47d127f1a.png)
 ![aelium-full](https://user-images.githubusercontent.com/93954648/167067983-6c1fbb34-5097-4187-b126-097ff2376063.png)
 ![ataya-full](https://user-images.githubusercontent.com/93954648/167067987-aa55535d-d8bb-4004-9d14-9c35b37e1faf.png)
+### proximamente
+![extraggedon-node-large](https://user-images.githubusercontent.com/93954648/167068043-4136301e-1cd4-4965-ab1b-283d39c1986b.png)
+![extraggedon-battery-large](https://user-images.githubusercontent.com/93954648/167068045-cf9ff2e6-5544-4d62-b7cb-e1905e4fcf39.png)
+![extraggedon-battery-medium](https://user-images.githubusercontent.com/93954648/167068046-6fa2f793-fd3a-4e24-9031-ac6eb2b3bfd8.png)
+![extraggedon-node](https://user-images.githubusercontent.com/93954648/167068047-a43f1110-81a6-4ca0-9e7d-f69df9d074a7.png)
+![glomerite](https://user-images.githubusercontent.com/93954648/167068054-a9486ede-0ced-45da-a78d-86cf1ee332d4.png)
+![andragon](https://user-images.githubusercontent.com/93954648/167068056-89ce6d7c-1783-406d-b65c-29633d9ebd37.png)
+![extraggedon](https://user-images.githubusercontent.com/93954648/167068057-b387ec9c-d29e-450c-9c90-fa4f4c352199.png)
