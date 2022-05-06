@@ -2,7 +2,8 @@
 
 ### Hola este mod está en traducción español... Pronto tendremos traduccion a ingles
 
-## Updates
+## Updates![asw](https://user-images.githubusercontent.com/93954648/167067166-47f01136-beb8-4af9-b157-63da22842f24.png)
+
 • ``1.0.1.1 Andal Update``
 
 ## nuevo mineral 
